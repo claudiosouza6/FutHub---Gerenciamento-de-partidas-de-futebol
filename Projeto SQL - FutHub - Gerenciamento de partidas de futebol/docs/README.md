@@ -35,6 +35,5 @@ A estrutura relacional foi modelada para garantir a integridade dos dados e o ac
 2. Clone este repositório:
    ```bash
    git clone [https://github.com/claudiosouza6/FutHub---Gerenciamento-de-partidas-de-futebol.git](https://github.com/claudiosouza6/FutHub---Gerenciamento-de-partidas-de-futebol.git)
-   ```
 3. Abra o arquivo `database/script_futhub.sql` no MySQL Workbench.
 4. Execute o script completo (`Ctrl + Shift + Enter`) para criar a base de dados `FutHub gerenciamento de partidas de futebol`, gerar a estrutura de tabelas e popular com os dados iniciais.
