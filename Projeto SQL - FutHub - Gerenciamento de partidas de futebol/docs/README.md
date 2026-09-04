@@ -1,4 +1,4 @@
-# ⚽ FutHub - Sistema de Gerenciamento de Partidas e Peladas
+# ⚽ FutHub - Sistema de Gerenciamento de Partidas de Futebol
 
 O **FutHub** é um sistema de banco de dados relacional voltado para a organização e gestão completa de partidas de futebol amador, agendamento de locais, estatísticas individuais de jogadores e controle financeiro das partidas.
 
@@ -34,7 +34,7 @@ A estrutura relacional foi modelada para garantir a integridade dos dados e o ac
 1. Certifique-se de ter o **MySQL Server (v8.0+)** e o **MySQL Workbench** instalados.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/FutHub.git](https://github.com/SEU_USUARIO/FutHub.git)
+   git clone [https://github.com/claudiosouza6 /FutHub.git](https://github.com/claudiosouza6 /FutHub.git)
    ```
 3. Abra o arquivo `database/script_futhub.sql` no MySQL Workbench.
-4. Execute o script completo (`Ctrl + Shift + Enter`) para criar a base de dados `A3_10OU2`, gerar a estrutura de tabelas e popular com os dados iniciais.
+4. Execute o script completo (`Ctrl + Shift + Enter`) para criar a base de dados `FutHub gerenciamento de partidas de futebol`, gerar a estrutura de tabelas e popular com os dados iniciais.
