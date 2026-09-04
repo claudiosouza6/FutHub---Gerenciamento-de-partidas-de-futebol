@@ -8,7 +8,7 @@ O **FutHub** √© um sistema de banco de dados relacional voltado para a organiza√
 
 A estrutura relacional foi modelada para garantir a integridade dos dados e o acompanhamento detalhado de cada partida:
 
-![Diagrama EER](docs/diagrama_eer.png)
+![Diagrama EER](FutHub gerenciamento de partidas de futebol.png)
 
 ---
 
